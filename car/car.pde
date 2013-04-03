@@ -7,7 +7,7 @@ void setup() {
 int x = 200;
 
 void draw() {
-  background(0, 241, 255);
+  background(0, 40, 255);
   fill(0,0,0);
   noStroke();
   ellipse(x+60, 325, 20, 20);
